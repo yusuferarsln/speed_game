@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222040960882",
+    "project_id": "speed-game-7c19e",
+    "storage_bucket": "speed-game-7c19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222040960882:android:50772c979d19696237b7eb",
+        "android_client_info": {
+          "package_name": "com.example.speed_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222040960882-0ial6is8tiv3oqdekfmcuhi0mfpe8bvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speed_game",
+            "certificate_hash": "94b91a9d44a179f2c2f11266a6c1bc31415d0cea"
+          }
+        },
+        {
+          "client_id": "222040960882-orbimq2u2nt0df1rukqbepclnnoqp5dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_tGpYPE7TW_lhso5ofEv8zSz0KDsY1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222040960882-orbimq2u2nt0df1rukqbepclnnoqp5dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
